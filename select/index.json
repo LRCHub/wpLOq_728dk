@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "居場所",
+  "base_artist": "春猿火",
+  "createdAt": "2026-02-06T13:48:42.293802Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "居場所",
+      "artist": "春猿火",
+      "has_synced": true,
+      "path": "select/01_居場所_春猿火.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "居場所",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/02_居場所_春猿火.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "居場所",
+      "artist": "GADORO",
+      "has_synced": true,
+      "path": "select/03_居場所_GADORO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "居場所",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_居場所_春猿火.txt"
+    }
+  ]
+}
